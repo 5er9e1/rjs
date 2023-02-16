@@ -1,7 +1,8 @@
 import React from 'react';
+
+import Board from './components/ButtonBoard';
 import logo from './logo.svg';
 import './App.css';
-import Board from './components/ButtonBoard';
 
 function App() {
   return (
